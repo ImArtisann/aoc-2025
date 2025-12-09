@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@effect/language-service": "^0.60.0",
+    "@effect/platform": "^0.93.6",
+    "@effect/platform-node": "^0.103.0",
+    "effect": "^3.19.9"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
